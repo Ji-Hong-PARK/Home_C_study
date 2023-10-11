@@ -18,5 +18,8 @@
     <ClCompile Include="stopwatch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SW_test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
